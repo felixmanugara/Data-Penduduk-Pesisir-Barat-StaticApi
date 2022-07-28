@@ -1,0 +1,27 @@
+html, body {
+    font-family: 'Montserrat','san-serif';
+    font-size: 14px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.parent-content {
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+    text-align: center;
+}
+
+.parent-content ul {
+    list-style: none;
+    padding: 0%;
+}
+
+.data-list li {
+    margin-bottom: 5px;
+}
+
+.data-list li a {
+    text-decoration: none;
+}
