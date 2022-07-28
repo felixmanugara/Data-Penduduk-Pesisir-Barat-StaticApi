@@ -3,7 +3,6 @@ __pycache__/
 venv/
 data.py
 test.py
-scrape.py
 db.py
 pesisir-barat-webAPI.code-workspace
 psql.py
